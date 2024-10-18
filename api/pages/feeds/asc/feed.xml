@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[Paris.JS - Le meetup mensuel autour du JavaScript]]></title>
+    <description><![CDATA[Tous les derniers mercredis du mois.]]></description>
+    <link>https://parisjs.org</link>
+    <lastBuildDate>Fri, 18 Oct 2024 10:26:19 GMT</lastBuildDate>
+    <atom:link href="https://parisjs.org/api/pages/feeds/asc/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Foire aux questions]]></title>
+      <link>https://parisjs.org/faq</link>
+      <guid isPermaLink="false">faq</guid>
+   </item>
+    <item>
+      <title><![CDATA[Code de conduite]]></title>
+      <link>https://parisjs.org/code-of-conduct</link>
+      <guid isPermaLink="false">code-of-conduct</guid>
+   </item>
+  </channel>
+</rss>
