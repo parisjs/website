@@ -1,0 +1,23 @@
+{
+  "name": "bloodyowl",
+  "jsx": { "version": 4 },
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": [
+    {
+      "module": "esmodule",
+      "in-source": true
+    }
+  ],
+  "uncurried": true,
+  "suffix": ".mjs",
+  "bs-dependencies": [
+    "@rescript/react",
+    "rescript-pages",
+    "rescript-asyncdata",
+    "@rescript/core"
+  ],
+  "bsc-flags": ["-open RescriptCore"]
+}
