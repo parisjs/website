@@ -84,9 +84,9 @@ let make = () => {
       <WidthContainer>
         <div className=Styles.row>
           <div className=Styles.images>
-            <img className=Styles.image1 src="/images/talk-1.webp" width="1024" height="768" />
-            <img className=Styles.image2 src="/images/talk-2.webp" width="1024" height="768" />
-            <img className=Styles.image3 src="/images/talk-3.webp" width="1024" height="768" />
+            <img className=Styles.image1 src="/images/talk-1.jpg" width="1024" height="768" />
+            <img className=Styles.image2 src="/images/talk-2.jpg" width="1024" height="768" />
+            <img className=Styles.image3 src="/images/talk-3.jpg" width="1024" height="768" />
           </div>
           <div className=Styles.contents>
             <h2 className=Styles.title> {"Talks"->React.string} </h2>
@@ -119,15 +119,9 @@ let make = () => {
             </a>
           </div>
           <div className=Styles.images>
-            <img
-              className=Styles.image1 src="/images/networking-1.webp" width="1024" height="768"
-            />
-            <img
-              className=Styles.image2 src="/images/networking-2.webp" width="1024" height="768"
-            />
-            <img
-              className=Styles.image3 src="/images/networking-3.webp" width="1024" height="768"
-            />
+            <img className=Styles.image1 src="/images/networking-1.jpg" width="1024" height="768" />
+            <img className=Styles.image2 src="/images/networking-2.jpg" width="1024" height="768" />
+            <img className=Styles.image3 src="/images/networking-3.jpg" width="1024" height="768" />
           </div>
         </div>
       </WidthContainer>
