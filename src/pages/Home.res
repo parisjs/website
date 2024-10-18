@@ -112,7 +112,7 @@ let make = () => {
               {"Après les talks, rencontrez la communauté autour d'un buffet pour échanger."->React.string}
             </p>
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSfyJchaXT8Rv1bMFtdECCeW5Np-TvN1QVipYQvcfMLdLj6Vcw/viewform"
+              href="https://github.com/parisjs/hosting/issues/new?assignees=&labels=&template=hosting.yml"
               target="_blank"
               className=Styles.callToAction>
               {"🏢 Héberger le meetup"->React.string}
